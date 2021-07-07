@@ -23,3 +23,14 @@ body{
 .flexible-container{
     display: flex;
 }
+.middle-banner{
+    background-image: url(shapes/7.png);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+.center{
+    text-align: center;
+    
+}

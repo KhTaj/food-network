@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .orange-color-font{
     color: orange;
@@ -25,8 +26,9 @@ body{
 }
 .middle-banner{
     background-image: url(shapes/7.png);
-    background-position: 100%;
+   
     background-repeat: no-repeat;
+    background-size: 100%;
     
     
 }
@@ -38,6 +40,29 @@ body{
     background-color:black;
     color: white;
 }
+.new1{
+    width:50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 20px;
+    background-color: none;
+    
+    
+#white-color{
+    background-color:rgb(206, 218, 192);
+    color: red;
+    padding: 25px 50px;
+    border-radius: 25px;
+}
 .gray-color-text{
     color: rgba(180, 194, 209, 0.644);
+}
+
+.recipies-item{
+    width:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
 }

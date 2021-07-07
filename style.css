@@ -19,7 +19,7 @@ body{
 
 }
 .half-width img{
-    width: 70%;
+    width: 50%;
 }
 .flexible-container{
     display: flex;

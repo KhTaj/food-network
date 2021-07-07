@@ -34,3 +34,10 @@ body{
     text-align: center;
     
 }
+#black-color{
+    background-color:black;
+    color: white;
+}
+.gray-color-text{
+    color: rgba(180, 194, 209, 0.644);
+}
